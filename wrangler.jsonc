@@ -1,0 +1,9 @@
+{
+  "site": {
+    "bucket": "./"
+    "exclude": [
+      ".git",
+      ".wrangler"
+    ]
+  }
+}
